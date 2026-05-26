@@ -1,0 +1,33 @@
+{
+    "document_type": "standard_invoice",
+    "vendor_name": "Nexora Supplies Pvt. Ltd.",
+    "invoice_number": "NXR-2024-0381",
+    "date": "10 Nov 2024",
+    "line_items": [
+        {
+            "description": "Office stationery bundle (A4 reams, pens, files)",
+            "qty": 15,
+            "unit_price": 1100,
+            "amount": 16500
+        },
+        {
+            "description": "Bubble wrap rolls – 50m",
+            "qty": 5,
+            "unit_price": 850,
+            "amount": 4250
+        },
+        {
+            "description": "Courier packaging tape (48mm x 100m)",
+            "qty": 30,
+            "unit_price": 100,
+            "amount": 3000
+        },
+        {
+            "description": "Printed letterheads (500 pcs)",
+            "qty": 3,
+            "unit_price": 500,
+            "amount": 1500
+        }
+    ],
+    "total_amount": 28400
+}

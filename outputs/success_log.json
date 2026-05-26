@@ -1,0 +1,52 @@
+[
+    {
+        "file": "inv_001.pdf",
+        "status": "success",
+        "route": "csv"
+    },
+    {
+        "file": "inv_002.pdf",
+        "status": "success",
+        "route": "slack"
+    },
+    {
+        "file": "inv_003.pdf",
+        "status": "success",
+        "route": "csv"
+    },
+    {
+        "file": "inv_004.pdf",
+        "status": "success",
+        "route": "slack"
+    },
+    {
+        "file": "inv_005.pdf",
+        "status": "success",
+        "route": "csv"
+    },
+    {
+        "file": "inv_006.pdf",
+        "status": "success",
+        "route": "csv"
+    },
+    {
+        "file": "inv_007.pdf",
+        "status": "success",
+        "route": "csv"
+    },
+    {
+        "file": "inv_008.jpg",
+        "status": "success",
+        "route": "csv"
+    },
+    {
+        "file": "inv_009.jpg",
+        "status": "success",
+        "route": "slack"
+    },
+    {
+        "file": "inv_010.pdf",
+        "status": "success",
+        "route": "human_review"
+    }
+]

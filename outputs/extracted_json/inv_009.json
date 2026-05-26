@@ -1,0 +1,37 @@
+{
+    "document_type": "standard_invoice",
+    "vendor_name": "VIKAS INDUSTRIAL SUPPLIES",
+    "invoice_number": "VIS/2024-25/1891",
+    "date": "19 Nov 2024",
+    "line_items": [
+        {
+            "description": "Ms Flat Bar 50x6mm (per kg)",
+            "hsn": "7216",
+            "quantity": 500,
+            "rate": 68,
+            "amount": 34000
+        },
+        {
+            "description": "Hex Bolt M12x50 GR 8.8 (per 100)",
+            "hsn": "7318",
+            "quantity": 80,
+            "rate": 420,
+            "amount": 33600
+        },
+        {
+            "description": "Cutting wheel 230mm (box of 25)",
+            "hsn": "6804",
+            "quantity": 4,
+            "rate": 1800,
+            "amount": 7200
+        },
+        {
+            "description": "Safety gloves - leather palm (pair)",
+            "hsn": "6116",
+            "quantity": 50,
+            "rate": 260,
+            "amount": 13000
+        }
+    ],
+    "total_amount": 89200
+}

@@ -1,0 +1,39 @@
+{
+    "document_type": "standard_invoice",
+    "vendor_name": "KALYAN ELECTRICAL WORKS",
+    "invoice_number": "KEW/24/0556",
+    "date": "14 Nov 2024",
+    "line_items": [
+        {
+            "description": "PVC conduit pipe 25mm (100 mtr)",
+            "qty": 10,
+            "unit_price": 820,
+            "amount": 8200
+        },
+        {
+            "description": "MCB distribution box 8-way",
+            "qty": 15,
+            "unit_price": 1240,
+            "amount": 18600
+        },
+        {
+            "description": "Armoured cable 4-core 10 sqmm (per mtr)",
+            "qty": 50,
+            "unit_price": 285,
+            "amount": 14250
+        },
+        {
+            "description": "LED street light 80W",
+            "qty": 10,
+            "unit_price": 840,
+            "amount": 8400
+        },
+        {
+            "description": "Earthing electrode set",
+            "qty": 2,
+            "unit_price": 55,
+            "amount": 110
+        }
+    ],
+    "total_amount": 48480
+}

@@ -1,0 +1,39 @@
+{
+    "document_type": "standard_invoice",
+    "vendor_name": "MERIDIAN FREIGHT SERVICES",
+    "invoice_number": "MFS/2024/NOV/02",
+    "date": "22 Nov 2024",
+    "line_items": [
+        {
+            "description": "FTL Mumbai–Pune freight (3 trips)",
+            "qty": 3,
+            "unit_price": 9000,
+            "amount": 27000
+        },
+        {
+            "description": "Loading/unloading charges",
+            "qty": 3,
+            "unit_price": 2500,
+            "amount": 7500
+        },
+        {
+            "description": "Toll & highway charges",
+            "qty": 3,
+            "unit_price": 1800,
+            "amount": 5400
+        },
+        {
+            "description": "Dunnage & lashing material",
+            "qty": 1,
+            "unit_price": 4100,
+            "amount": 4100
+        },
+        {
+            "description": "Detention charges (2 hrs)",
+            "qty": 2,
+            "unit_price": 1500,
+            "amount": 3000
+        }
+    ],
+    "total_amount": 51500
+}

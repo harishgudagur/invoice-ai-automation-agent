@@ -1,0 +1,27 @@
+{
+    "document_type": "standard_invoice",
+    "vendor_name": "Priya Packaging Works",
+    "invoice_number": "PPW/24-25/0087",
+    "date": "05 Nov 2024",
+    "line_items": [
+        {
+            "description": "Corrugated box – 12x10x8 in (qty 200)",
+            "qty": 200,
+            "unit_price": 18,
+            "amount": 3600
+        },
+        {
+            "description": "Foam inserts – custom cut",
+            "qty": 200,
+            "unit_price": 12,
+            "amount": 2400
+        },
+        {
+            "description": "Printed stickers (brand labels)",
+            "qty": 500,
+            "unit_price": 1,
+            "amount": 500
+        }
+    ],
+    "total_amount": 7280
+}

@@ -1,0 +1,27 @@
+{
+    "document_type": "credit_note",
+    "vendor_name": "Nexora Supplies Pvt. Ltd.",
+    "invoice_number": "NXR-CN-2024-0041",
+    "date": "12 Nov 2024",
+    "line_items": [
+        {
+            "description": "Bubble wrap rolls – 50m (returned, damaged)",
+            "qty": "5",
+            "unit_price": "850",
+            "amount": -4250
+        },
+        {
+            "description": "Printed letterheads – wrong specifications",
+            "qty": "2",
+            "unit_price": "500",
+            "amount": -1000
+        },
+        {
+            "description": "Restocking fee (waived as goodwill)",
+            "qty": "1",
+            "unit_price": "0",
+            "amount": 0
+        }
+    ],
+    "total_amount": -12000
+}
